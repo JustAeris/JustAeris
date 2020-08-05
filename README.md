@@ -24,7 +24,7 @@ I started learning learning C# a few months ago and I recently finished my Pytho
 GitHub is my digital garden, this is the place where I put all of my projects
   
 From now on, I've made cool UWP apps in C# that you can find on the Microsoft Store.
-![https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Draw10](https://github.com/Astyr6/Draw10)
+[https://github.com/Astyr6/Draw10](https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Draw10)
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Media10"/>
 
 <details>
