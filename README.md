@@ -27,12 +27,12 @@ From now on, I've made cool UWP apps in C# that you can find on the Microsoft St
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Draw10)](https://github.com/Astyr6/Draw10)<br/>
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Media10)](https://github.com/Astyr6/Media10)
 
-_I plan on doing more in the future_
+_I plan on doing more in the future_<br/><br/>
  
- I've also made some <del>dumb</del> Python stuff that can be found here :
+I've also made some <del>dumb</del> Python stuff that can be found here :<br/>
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Python)](https://github.com/Astyr6/Python)
- 
- Please note that all of my project are under the [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+<br/><br/>
+Please note that all of my project are under the [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 # 📩 How to contact me
   Using this e-mail adress `astyr.github@gmail.com` or using Twitter [@astyr6](https://twitter.com/astyr6), please that it is more likely that I will use and prefer my e-mail adress.
