@@ -34,10 +34,14 @@ I've also made some <del>dumb</del> Python stuff that can be found here :<br/>
 <br/><br/>
 Please note that all of my project are under the [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
-# 📩 How to contact me
-  Using this e-mail adress `astyr.github@gmail.com` or using Twitter [@astyr6](https://twitter.com/astyr6), please that it is more likely that I will use and prefer my e-mail adress.
+---
 
-# 📊 Stats
+### 📩 How to contact me
+Using this e-mail adress `astyr.github@gmail.com` or using Twitter [@astyr6](https://twitter.com/astyr6), please that it is more likely that I will use and prefer my e-mail adress.
+  
+---
+
+### 📊 Stats
 
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api/?username=Astyr6&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
