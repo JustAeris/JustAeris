@@ -13,7 +13,8 @@ I started learning learning C# a few months ago and I recently finished my Pytho
     NSIS (and NSIS script maker)<br/>
     Sublime Text<br/>
     Windows Terminal<br/>
-    XAML Controls Gallery<i/>
+    XAML Controls Gallery<br/>
+    Git<i/>
     <p/>
 </details>
 
@@ -23,29 +24,34 @@ I started learning learning C# a few months ago and I recently finished my Pytho
 GitHub is my digital garden, this is the place where I put all of my projects
   
 From now on, I've made cool UWP apps in C# that you can find on the Microsoft Store.
+![https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Draw10](https://github.com/Astyr6/Draw10)
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Media10"/>
 
 <details>
   <summary><strong>Links</strong></summary>
   <br/>
   <details>
     <summary>Draw10</summary>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Draw10&show_owner=True"/>
+    
     <p>Draw10 https://www.microsoft.com/store/apps/9N5CN2D64ZRC<p/>
   </details>
   <details>
     <summary>Media10</summary>
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Media10&show_owner=True"/>
+    
      <p>Media10 https://www.microsoft.com/store/apps/9P8Z9SDJR93L</p>
   </details>
   <p><i>I plan on doing more in the future<i/></p>
  </details>
+ 
+ I've also made some <del>dumb</del> Python stuff that can be found here : https://github.com/Astyr6/Python
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Python"/><br/>
 
 ---
 <p align=center>
 <img src="https://github-readme-stats.vercel.app/api/?username=Astyr6&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astyr6&layout=compact"/><br/>
 </p>
-
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Astyr6.Astyr6)
 <!--
 **Astyr6/Astyr6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
