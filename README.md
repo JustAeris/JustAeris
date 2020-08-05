@@ -49,4 +49,5 @@ Using this e-mail adress `astyr.github@gmail.com` or using Twitter [@astyr6](htt
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astyr6&layout=compact"/><br/>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Astyr6.Astyr6"/><br/>
 </p>
+
 [![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/astyr.github@gmail.com)
