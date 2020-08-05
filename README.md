@@ -37,7 +37,7 @@ Please note that all of my project are under the [![GPLv3 license](https://img.s
 ---
 
 ### 📩 How to contact me
-Using this e-mail adress `astyr.github@gmail.com` or using Twitter [@astyr6](https://twitter.com/astyr6), please that it is more likely that I will use and prefer my e-mail adress.
+Using this e-mail adress `astyr.github@gmail.com` or using Twitter [@astyr6](https://twitter.com/astyr6), please note that it is more likely that I will use and prefer my e-mail adress.
   
 ---
 
