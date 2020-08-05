@@ -33,7 +33,7 @@ I've also made some <del>dumb</del> Python stuff that can be found here :<br/>
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Python)](https://github.com/Astyr6/Python)
 
 -----
-[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Astyr6)[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) Please note that all of my project are under the 
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Astyr6) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html) Please note that all of my project are under the 
 
 ---
 
