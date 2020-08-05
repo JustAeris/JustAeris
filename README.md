@@ -31,10 +31,10 @@ From now on, I've made cool UWP apps in C# that you can find on the Microsoft St
  
 I've also made some <del>dumb</del> Python stuff that can be found here :<br/>
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Python)](https://github.com/Astyr6/Python)
-<br/><br/>
-Please note that all of my project are under the [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-
 ---
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/) Please note that all of my project are under the [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
+
+----
 
 ### 📩 How to contact me
 Using this e-mail adress `astyr.github@gmail.com` or using Twitter [@astyr6](https://twitter.com/astyr6), please note that it is more likely that I will use and prefer my e-mail adress.
