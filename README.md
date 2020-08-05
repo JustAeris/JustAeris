@@ -23,11 +23,11 @@ I started learning learning C# a few months ago and I recently finished my Pytho
 ### 🌱 My GitHub
 GitHub is like my digital garden, this is the place where I put all of my projects
   
-From now on, I've made cool UWP apps in C# that you can find on the Microsoft Store.
+From now on, I've made cool UWP apps in C# that you can find on the Microsoft Store.<br/>
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Draw10)](https://github.com/Astyr6/Draw10)<br/>
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Media10)](https://github.com/Astyr6/Media10)
 
-_I plan on doing more in the future_<br/><br/>
+<i>I plan on doing more in the future<i/><br/><br/>
  
 I've also made some <del>dumb</del> Python stuff that can be found here :<br/>
 [![image](https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Python)](https://github.com/Astyr6/Python)
