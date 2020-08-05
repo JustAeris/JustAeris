@@ -31,6 +31,7 @@ _I plan on doing more in the future_
  
  I've also made some <del>dumb</del> Python stuff that can be found here : https://github.com/Astyr6/Python
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astyr6&repo=Python"/><br/>
+ [![Github all releases](https://img.shields.io/github/downloads/Astyr6/Python/total.svg)](https://github.com/Astyr6/Python/releases/)
 
 ---
 <p align=center>
@@ -38,7 +39,7 @@ _I plan on doing more in the future_
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astyr6&layout=compact"/><br/>
 </p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Astyr6.Astyr6)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Astyr6.Astyr6) [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 <!--
 **Astyr6/Astyr6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
