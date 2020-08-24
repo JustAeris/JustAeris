@@ -5,11 +5,12 @@
 
 ### 🤔 About me
 <p>I'm a 15 years old French dude, learning how to program and develop apps.<br/>
-I started learning learning C# a few months ago and I recently finished my Python 3 course, I consider myself as beginner.<br/></p>
+I started learning learning C# a few months ago and I recently finished my Python 3 and Java courses, I consider myself as beginner.<br/></p>
 <details>
   <summary><strong>Softwares I use</strong></summary>
-  <p><i>Visual Studio 2019<br/>
-    PyCharm (Switched from Visual Studio Code)<br/>
+  <p><i>PyCharm (Switched from Visual Studio Code)<br/>
+    Rider (Switched from Visual Studio 2019)<br/>
+    IntelliJ Utlimate<br/>
     NSIS (and NSIS script maker)<br/>
     Sublime Text<br/>
     Windows Terminal<br/>
