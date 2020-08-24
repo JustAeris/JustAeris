@@ -20,8 +20,6 @@ I started learning learning C# a few months ago and I recently finished my Pytho
 </details>
 
 
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/astyr.github@gmail.com)
-
 ---
 ### 🌱 My GitHub
 GitHub is like my digital garden, this is the place where I put all of my projects
