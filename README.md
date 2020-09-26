@@ -11,6 +11,8 @@ I started learning learning C# a few months ago and I recently finished my Pytho
   <p><i>PyCharm (Switched from Visual Studio Code)<br/>
     Rider (Switched from Visual Studio 2019)<br/>
     IntelliJ Utlimate<br/>
+    DataGrip<br/>
+    WebStorm<br/>
     NSIS (and NSIS script maker)<br/>
     Sublime Text<br/>
     Windows Terminal<br/>
