@@ -12,7 +12,7 @@ I'm working with Rider from JetBrains and LINQPad and learning using C# 8.0 in a
 <p align=center>
   
 <img aling=center src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=darcula" alt="github stats"/></br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astyr6&hide=batchfile,nsis"/><br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astyr6&hide=batchfile,nsis&theme=darcula"/><br/>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=Astyr6.Astyr6"/><br/>
 
 </p>
