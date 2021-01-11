@@ -1,5 +1,7 @@
 <p align=center>
-  <img src="https://i.imgur.com/1EfCtzX.gif">
+  <href a="https://github.com/Astyr6">
+    <img src="https://i.imgur.com/1EfCtzX.gif">
+  <href/>
 </p>
 <br/>
 
