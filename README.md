@@ -8,5 +8,5 @@
 I'm working with Rider from JetBrains and LINQPad and learning using C# 8.0 in a Nutshell.</p>
 
 <p align=center>
-  <img src="https://i.imgur.com/ZOjOozP.gif">
+  <img src="https://i.imgur.com/iCvVmgX.mp4">
 </p>
