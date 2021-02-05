@@ -1,6 +1,6 @@
 <p align=center>
   <href a="https://github.com/Astyr6">
-    <img src="https://i.imgur.com/1EfCtzX.gif">
+    <img src="https://i.imgur.com/Ht0TsmS.gif">
   <href/>
 </p>
 <br/>
