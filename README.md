@@ -6,7 +6,7 @@
 <br/>
 
 ### 🤔 About me
-<p>I'm a 16 years old French dude, learning how to program and develop apps.<br/>
+<p>I'm a 17 years old French dude, learning how to program and develop apps.<br/>
 I'm working with Rider from JetBrains and LINQPad and learning using C# 8.0 in a Nutshell.</p>
 <br/>
 <br/>
