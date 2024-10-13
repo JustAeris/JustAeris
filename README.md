@@ -1,15 +1,11 @@
-<p align=center>
-  <href a="https://github.com/JustAeris">
-    <img src="https://i.imgur.com/Ht0TsmS.gif">
-  <href/>
-</p>
-<br/>
+# Hi, I'm Aeris! 👋
 
-### 🤔 About me
-<p>I'm a 17 years old French dude, learning how to program and develop apps.<br/>
-I'm working with Rider from JetBrains and LINQPad and learning using C# 8.0 in a Nutshell.</p>
-<br/>
-<br/>
-<p align=center>
-  <img src="https://i.imgur.com/uoeCshu.gif">
-</p>
+I'm a 19-year-old electronics student working with **KiCad** and reading **The Art of Electronics**. 
+I can program in **C#** and I'm learning **C/C++** for microcontrollers.
+
+### Interests:
+- **PCB Design** with KiCad 🖥️
+- **C/C++** for embedded systems ⚙️
+- **Electronics Projects** and circuit design 🔧
+
+Feel free to reach out at **[aeris.github@gmail.com](mailto:aeris.github@gmail.com)**! ✉️
